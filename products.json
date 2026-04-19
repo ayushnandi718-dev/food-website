@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Double Beef Burger",
+    "price": "₹190",
+    "image": "burger.png"
+  },
+  {
+    "id": 2,
+    "name": "Veggie Pizza",
+    "price": "₹200",
+    "image": "pizza.png"
+  },
+  {
+    "id": 3,
+    "name": "Fried Chicken",
+    "price": "₹90",
+    "image": "fried-chicken.png"
+  },
+  {
+    "id": 4,
+    "name": "Lasagna",
+    "price": "₹110",
+    "image": "lasagna.png"
+  },
+  {
+    "id": 5,
+    "name": "Spring Roll",
+    "price": "₹100",
+    "image": "spring-roll.png"
+  },
+  {
+    "id": 6,
+    "name": "Spaghetti",
+    "price": "₹90",
+    "image": "spaghetti.png"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Roll",
+    "price": "₹150",
+    "image": "chicken-roll.png"
+  },
+  {
+    "id": 8,
+    "name": "Sandwich",
+    "price": "₹120",
+    "image": "sandwich.png"
+  }
+]
