@@ -97,11 +97,12 @@ Open `index.html` in your browser
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/800640b5-d702-432d-8abe-ace650609586" />
 <img width="1908" height="925" alt="image" src="https://github.com/user-attachments/assets/470da304-cf1e-4e20-9654-9dd210587054" />
-<img width="1908" height="925" alt="image" src="https://github.com/user-attachments/assets/6a92d1cb-001a-4a5b-9696-318aaba3e2b8" />
+<img width="1722" height="7567" alt="Screenshot_26-4-2026_163736_ayushnandi718-dev github io" src="https://github.com/user-attachments/assets/21d3a250-32a0-44cf-916b-4f4d3e87470a" />
 <img width="1908" height="925" alt="image" src="https://github.com/user-attachments/assets/53f6d39b-4fa2-4c75-806a-0316cba05170" />
 <img width="1908" height="925" alt="image" src="https://github.com/user-attachments/assets/e324a43b-6f2e-427d-beb7-129473d0fc56" />
 <img width="1908" height="925" alt="image" src="https://github.com/user-attachments/assets/fc3004ce-a6db-4768-8775-6a311b4ec736" />
 <img width="1908" height="925" alt="image" src="https://github.com/user-attachments/assets/7d7ad565-c7fd-4b0a-a316-d9b995ec73d9" />
+
 
 
 
